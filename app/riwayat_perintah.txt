@@ -1,0 +1,5 @@
+    1  mkdir -p uts_platform/{app,config,logs,screenshots}
+    2  ls uts_platform
+    3  cd uts_platform/app
+    4  history | tail -n 10 >riwayat_perintah.txt
+docker --version
